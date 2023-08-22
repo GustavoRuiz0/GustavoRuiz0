@@ -17,6 +17,9 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
+<div>
 ## Tecnologias
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)
@@ -26,6 +29,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey)
+
+</div>
 
 ## Contato
 
