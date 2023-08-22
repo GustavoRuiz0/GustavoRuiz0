@@ -17,7 +17,7 @@
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-<div style="margin-top: 40px;">
+<div style="margin-top: 70px;">
   
 
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)
