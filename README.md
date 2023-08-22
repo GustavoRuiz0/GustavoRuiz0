@@ -17,8 +17,8 @@
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-<div style="margin-top: 20px;">
-  ## Tecnologias
+<div style="margin-top: 40px;">
+  
 
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)
   ![Java](https://img.shields.io/badge/-Java-orange)
@@ -30,5 +30,5 @@
 </div>
 
 ## Contato
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-ruiz-810a851b5/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-ruiz-810a851b5/)
