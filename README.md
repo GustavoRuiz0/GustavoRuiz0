@@ -31,4 +31,3 @@
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-ruiz-810a851b5/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/gustavo-ruiz-810a851b5/)
