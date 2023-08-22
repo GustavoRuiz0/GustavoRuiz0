@@ -4,6 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 Trabalhando com Java e Angular
+- 🌱 Aprendendo Tudo sobre Java WEB
+- 👯 Colaborando com a Defesa Civil no projeto Operação-Verão
+- 💬 Sempre afim de falar de Cyber Security
+- 📫 Contato: gustavolvruiz8@gmail.com
+- ⚡ Fun fact: Linux Lover
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gustavo-ruiz-810a851b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-ruiz-810a851b5" height="30" width="40" /></a>
